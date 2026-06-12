@@ -41,10 +41,6 @@
   - 💼 <strong>Estou em busca de um estágio na área de dados!</strong> Se tiver uma oportunidade, entre em contato 🚀
 </p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/💼%20Disponível%20para%20Estágio-brightgreen?style=for-the-badge" alt="disponivel para estagio" />
-</div>
-
 ###
 
 <h3 align="left">🛠 Linguagens e ferramentas</h3>
