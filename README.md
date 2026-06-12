@@ -33,8 +33,8 @@
 ###
 
 <p align="left">
-  Sou estudante de Ciência de Dados na FATEC Ipiranga, morando em São Bernardo do Campo, SP.<br><br>
-  - 🎓 Cursando <strong>Ciência de Dados</strong> na FATEC Ipiranga — 1º semestre<br>
+  Sou estudante de Ciência de Dados na FATEC, morando em São Bernardo do Campo, SP.<br><br>
+  - 🎓 Cursando <strong>Ciência de Dados</strong> na FATEC — 1º semestre<br>
   - 🔍 Foco em <strong>análise de dados</strong> e visualização<br>
   - 🌱 Atualmente aprendendo <strong>Python</strong> e <strong>SQL</strong><br>
   - ⚡ No meu tempo livre gosto de explorar novos projetos de tecnologia<br>
