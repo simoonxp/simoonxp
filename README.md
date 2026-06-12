@@ -89,6 +89,23 @@
 
 ###
 
+<h3 align="left">📬 Recrutador?</h3>
+
+###
+
+<p align="left">
+  Estou disponível para conversas sobre oportunidades de estágio na área de dados!<br>
+  Me chame diretamente pelo <a href="https://wa.me/5511975555814">WhatsApp</a> ou <a href="https://www.linkedin.com/in/felipe-simon-83ba10352">LinkedIn</a> — respondo rápido! 😄
+</p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/✅%20Disponível%20para%20Estágio-28a745?style=for-the-badge" alt="disponivel" />
+  <img src="https://img.shields.io/badge/📍%20São%20Bernardo%20do%20Campo%2C%20SP-0077B5?style=for-the-badge" alt="local" />
+  <img src="https://img.shields.io/badge/🎓%20FATEC%20-%201º%20Semestre-6f42c1?style=for-the-badge" alt="fatec" />
+</div>
+
+###
+
 <div align="center">
   <i>"Os dados são o novo petróleo — mas só têm valor quando refinados."</i>
 </div>
