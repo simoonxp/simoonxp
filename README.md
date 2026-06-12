@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="center">Olá, eu sou o Simon! 👋</h1>
+<h1 align="center">Olá, eu sou o Felipe Simon! 👋</h1>
 
 ###
 
