@@ -62,12 +62,13 @@
 
 ###
 
-<h3 align="left">🏆 Troféus</h3>
+<h3 align="left">📊 Estatísticas</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=simoonxp&theme=onedark&column=4&margin-w=15&margin-h=15" alt="trofeus" />
+  <img src="https://github-readme-stats.vercel.app/api?username=simoonxp&show_icons=true&theme=dark&hide_border=true&locale=pt-br" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simoonxp&layout=compact&theme=dark&hide_border=true&locale=pt-br" height="150" alt="langs" />
 </div>
 
 ###
