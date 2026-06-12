@@ -67,7 +67,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=simoonxp&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="trofeus" />
+  <img src="https://github-profile-trophy.vercel.app/?username=simoonxp&theme=onedark&column=4&margin-w=15&margin-h=15" alt="trofeus" />
 </div>
 
 ###
