@@ -67,7 +67,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=simoonxp&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="trofeus" />
+  <img src="https://github-profile-trophy.vercel.app/?username=simoonxp&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="trofeus" />
 </div>
 
 ###
@@ -77,7 +77,11 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/simoonxp/simoonxp/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simoonxp/simoonxp/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simoonxp/simoonxp/output/snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/simoonxp/simoonxp/output/snake.svg" />
+  </picture>
 </div>
 
 ###
