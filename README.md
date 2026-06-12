@@ -42,10 +42,6 @@
 
 ###
 
-> *"Os dados são o novo petróleo — mas só têm valor quando refinados."*
-
-###
-
 <h3 align="left">🛠 Linguagens e ferramentas</h3>
 
 ###
@@ -85,3 +81,9 @@
 </div>
 
 ###
+
+###
+
+<div align="center">
+  <i>"Os dados são o novo petróleo — mas só têm valor quando refinados."</i>
+</div>
