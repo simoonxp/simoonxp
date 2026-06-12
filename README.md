@@ -37,8 +37,13 @@
   - 🎓 Cursando <strong>Ciência de Dados</strong> na FATEC Ipiranga — 1º semestre<br>
   - 🔍 Foco em <strong>análise de dados</strong> e visualização<br>
   - 🌱 Atualmente aprendendo <strong>Python</strong> e <strong>SQL</strong><br>
-  - ⚡ No meu tempo livre gosto de explorar novos projetos de tecnologia
+  - ⚡ No meu tempo livre gosto de explorar novos projetos de tecnologia<br>
+  - 💼 <strong>Estou em busca de um estágio na área de dados!</strong> Se tiver uma oportunidade, entre em contato 🚀
 </p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/💼%20Disponível%20para%20Estágio-brightgreen?style=for-the-badge" alt="disponivel para estagio" />
+</div>
 
 ###
 
