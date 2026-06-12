@@ -62,13 +62,12 @@
 
 ###
 
-<h3 align="left">📊 Estatísticas</h3>
+<h3 align="left">📈 Atividade</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simoonxp&show_icons=true&theme=dark&hide_border=true&locale=pt-br" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simoonxp&layout=compact&theme=dark&hide_border=true&locale=pt-br" height="150" alt="langs" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simoonxp&theme=github-compact&hide_border=true&area=true" alt="activity graph" />
 </div>
 
 ###
