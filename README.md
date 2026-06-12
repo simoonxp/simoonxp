@@ -42,6 +42,10 @@
 
 ###
 
+> *"Os dados são o novo petróleo — mas só têm valor quando refinados."*
+
+###
+
 <h3 align="left">🛠 Linguagens e ferramentas</h3>
 
 ###
@@ -54,6 +58,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+</div>
+
+###
+
+<h3 align="left">🏆 Troféus</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=simoonxp&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="trofeus" />
+</div>
+
+###
+
+<h3 align="left">🐍 Minhas contribuições</h3>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/simoonxp/simoonxp/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
