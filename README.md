@@ -27,8 +27,8 @@
 ###
 
 <p align="left">
-  Sou estudante de Ciência de Dados na FATEC, de São Bernardo do Campo, SP.<br><br>
-  - 🎓 Cursando <strong>Ciência de Dados</strong> na FATEC<br>
+  Sou estudante de Ciência de Dados na FATEC Ipiranga, morando em São Bernardo do Campo, SP.<br><br>
+  - 🎓 Cursando <strong>Ciência de Dados</strong> na FATEC Ipiranga — 1º semestre<br>
   - 🔍 Foco em <strong>análise de dados</strong> e visualização<br>
   - 🌱 Atualmente aprendendo <strong>Python</strong> e <strong>SQL</strong><br>
   - ⚡ No meu tempo livre gosto de explorar novos projetos de tecnologia
@@ -43,7 +43,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="database logo" />
+  <img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=databricks&logoColor=white" height="40" alt="sql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   <img width="12" />
