@@ -69,6 +69,16 @@
 
 ###
 
+<h3 align="left">💻 Opção 2 (novo) — Terminal customizado</h3>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/simoonxp/simoonxp/main/terminal.svg" alt="terminal" width="500" />
+</div>
+
+###
+
 <h3 align="left">🎨 Opção 3 — Banner estilizado</h3>
 
 ###
