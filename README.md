@@ -18,8 +18,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/simoonxp/simoonxp/main/terminal.svg" alt="terminal" width="420" />
+<div align="left">
+  <img src="https://raw.githubusercontent.com/simoonxp/simoonxp/main/terminal.svg" alt="terminal" width="550" />
 </div>
 
 ###
