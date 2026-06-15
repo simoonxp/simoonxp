@@ -14,17 +14,9 @@
 
 ###
 
-<h3 align="left">👨‍💻 Sobre mim</h3>
-
-###
-
 <div align="left">
   <img src="https://raw.githubusercontent.com/simoonxp/simoonxp/main/terminal.svg" alt="terminal" width="550" />
 </div>
-
-###
-
-<h3 align="left">🛠 Linguagens e ferramentas</h3>
 
 ###
 
@@ -37,10 +29,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
 </div>
-
-###
-
-<h3 align="left">📬 Contato</h3>
 
 ###
 
