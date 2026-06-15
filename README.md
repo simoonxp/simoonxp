@@ -59,42 +59,12 @@
 
 ###
 
-<h3 align="left">⌨️ Opção 1 — Typing Animation</h3>
-
-###
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Estudante+de+Ci%C3%AAncia+de+Dados;Aprendendo+Python+%26+SQL;Em+busca+de+um+est%C3%A1gio!" alt="Typing SVG" />
-</div>
-
-###
-
-<h3 align="left">💻 Opção 2 (novo) — Terminal customizado</h3>
+<h3 align="left">💻 Terminal</h3>
 
 ###
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/simoonxp/simoonxp/main/terminal.svg" alt="terminal" width="500" />
-</div>
-
-###
-
-<h3 align="left">🎨 Opção 3 — Banner estilizado</h3>
-
-###
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,100:0077B5&height=180&section=header&text=Felipe%20Simon&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Ciência%20de%20Dados&descAlignY=58&descSize=18" alt="banner" />
-</div>
-
-###
-
-<h3 align="left">🎯 Opção 4 — Grid de skills</h3>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,github,vscode&theme=dark&perline=4" alt="skills" />
 </div>
 
 ###
