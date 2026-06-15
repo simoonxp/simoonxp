@@ -3,8 +3,11 @@
     <style>
       .term-bg { fill: #0d1117; }
       .term-bar { fill: #21262d; }
-      .term-text2 { font-family: 'Courier New', monospace; font-size: 13px; fill: #c9d1d9; }
-      .term-prompt { font-family: 'Courier New', monospace; font-size: 13px; fill: #3fb950; }
+      .term-text { font-family: 'Courier New', monospace; font-size: 13px; fill: #c9d1d9; }
+      .term-green { font-family: 'Courier New', monospace; font-size: 13px; fill: #3fb950; }
+      .term-blue { font-family: 'Courier New', monospace; font-size: 13px; fill: #58a6ff; }
+      .term-yellow { font-family: 'Courier New', monospace; font-size: 13px; fill: #e3b341; }
+      .term-purple { font-family: 'Courier New', monospace; font-size: 13px; fill: #bc8cff; }
       .term-comment { font-family: 'Courier New', monospace; font-size: 13px; fill: #8b949e; }
       .dot-red { fill: #ff5f56; }
       .dot-yellow { fill: #ffbd2e; }
@@ -18,22 +21,23 @@
   <circle cx="20" cy="16" r="6" class="dot-red"/>
   <circle cx="42" cy="16" r="6" class="dot-yellow"/>
   <circle cx="64" cy="16" r="6" class="dot-green"/>
-  <text x="250" y="21" text-anchor="middle" class="term-text2" font-size="12">felipe@portfolio: ~</text>
+  <text x="250" y="21" text-anchor="middle" class="term-text" font-size="12">sobre_mim.py</text>
 
-  <text x="16" y="58" class="term-prompt">$ <tspan class="term-text2">whoami</tspan></text>
-  <text x="16" y="80" class="term-text2">Felipe Simon</text>
+  <text x="16" y="58" class="term-purple">class <tspan class="term-blue">FelipeSimon</tspan><tspan class="term-text">:</tspan></text>
 
-  <text x="16" y="106" class="term-prompt">$ <tspan class="term-text2">cat sobre-mim.txt</tspan></text>
-  <text x="16" y="128" class="term-comment"># Estudante de Ciência de Dados na FATEC - 1º semestre</text>
-  <text x="16" y="148" class="term-comment"># Moro em São Bernardo do Campo, SP</text>
-  <text x="16" y="172" class="term-text2">- Foco em análise de dados e visualização</text>
-  <text x="16" y="194" class="term-text2">- Aprendendo Python, SQL e Power BI</text>
-  <text x="16" y="216" class="term-text2">- Explorando novos projetos no tempo livre</text>
+  <text x="36" y="82" class="term-purple">def <tspan class="term-blue">__init__</tspan><tspan class="term-text">(self):</tspan></text>
+  <text x="56" y="104" class="term-yellow">self<tspan class="term-text">.nome = </tspan><tspan class="term-green">"Felipe Simon"</tspan></text>
+  <text x="56" y="124" class="term-yellow">self<tspan class="term-text">.curso = </tspan><tspan class="term-green">"Ciência de Dados - FATEC"</tspan></text>
+  <text x="56" y="144" class="term-yellow">self<tspan class="term-text">.semestre = </tspan><tspan class="term-green">"1º semestre"</tspan></text>
+  <text x="56" y="164" class="term-yellow">self<tspan class="term-text">.cidade = </tspan><tspan class="term-green">"São Bernardo do Campo, SP"</tspan></text>
 
-  <text x="16" y="244" class="term-prompt">$ <tspan class="term-text2">status --estagio</tspan></text>
-  <text x="16" y="266" class="term-text2">Disponível para oportunidades de estágio! 🚀</text>
+  <text x="36" y="192" class="term-yellow">self<tspan class="term-text">.skills = [</tspan><tspan class="term-green">"Python"</tspan><tspan class="term-text">, </tspan><tspan class="term-green">"SQL"</tspan><tspan class="term-text">, </tspan><tspan class="term-green">"Power BI"</tspan><tspan class="term-text">]</tspan></text>
+  <text x="36" y="214" class="term-yellow">self<tspan class="term-text">.foco = </tspan><tspan class="term-green">"Análise de dados e visualização"</tspan></text>
+  <text x="36" y="236" class="term-yellow">self<tspan class="term-text">.buscando = </tspan><tspan class="term-green">"Estágio na área de dados 🚀"</tspan></text>
 
-  <rect x="16" y="274" width="10" height="3" class="cursor">
+  <text x="16" y="264" class="term-comment"># felipe = FelipeSimon()</text>
+
+  <rect x="16" y="272" width="10" height="3" class="cursor">
     <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
   </rect>
 </svg>
