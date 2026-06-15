@@ -15,7 +15,7 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/simoonxp/simoonxp/main/terminal.svg" alt="terminal" width="550" />
+  <img src="https://raw.githubusercontent.com/simoonxp/simoonxp/main/terminal2.svg" alt="terminal" width="550" />
 </div>
 
 ###
