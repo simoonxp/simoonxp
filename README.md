@@ -18,13 +18,9 @@
 
 ###
 
-<p align="left">
-  Sou estudante de Ciência de Dados na FATEC — 1º semestre, morando em São Bernardo do Campo, SP.<br><br>
-  - 🔍 Foco em <strong>análise de dados</strong> e visualização<br>
-  - 🌱 Atualmente aprendendo <strong>Python</strong>, <strong>SQL</strong> e <strong>Power BI</strong><br>
-  - ⚡ No meu tempo livre gosto de explorar novos projetos de tecnologia<br>
-  - 💼 <strong>Estou em busca de um estágio na área de dados!</strong>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/simoonxp/simoonxp/main/terminal.svg" alt="terminal" width="500" />
+</div>
 
 ###
 
@@ -40,16 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-</div>
-
-###
-
-<h3 align="left">💻 Terminal</h3>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/simoonxp/simoonxp/main/terminal.svg" alt="terminal" width="500" />
 </div>
 
 ###
