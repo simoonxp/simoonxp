@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=simoonxp.simoonxp&" />
+  <img src="https://komarev.com/ghpvc/?username=simoonxp&label=Visitas+ao+perfil&color=0077B5&style=for-the-badge" alt="visitor badge" />
 </div>
 
 ###
