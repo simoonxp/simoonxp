@@ -69,16 +69,6 @@
 
 ###
 
-<h3 align="left">💻 Opção 2 — Terminal animado</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-terminal-bash.vercel.app/api?command=whoami&font=jetBrainsMono&theme=github_dark&width=500" alt="terminal" />
-</div>
-
-###
-
 <h3 align="left">🎨 Opção 3 — Banner estilizado</h3>
 
 ###
