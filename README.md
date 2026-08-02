@@ -4,12 +4,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=simoonxp&label=Visitas+ao+perfil&color=0077B5&style=for-the-badge" alt="visitor badge" />
-</div>
-
-###
-
 <h1 align="center">Olá, eu sou o Felipe Simon! 👋</h1>
 
 ###
