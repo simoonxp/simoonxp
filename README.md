@@ -9,7 +9,7 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/simoonxp/simoonxp/main/terminal5.svg" alt="terminal" width="550" />
+  <img src="https://raw.githubusercontent.com/simoonxp/simoonxp/main/terminal6.svg" alt="terminal" width="550" />
 </div>
 
 ###
